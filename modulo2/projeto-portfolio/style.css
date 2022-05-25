@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100vw;
+}
+
+h1{
+    font-size: 4rem;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+
+li{
+    margin: 0 15px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: auto 10px;
+}
+nav p{
+    font-weight: bold;
+}
+
+header{
+    height:auto;
+    background-color: blueviolet;
+}
+
+p{
+    height: 10px;
+    
+    
+}
