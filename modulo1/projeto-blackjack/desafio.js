@@ -1,3 +1,6 @@
+
+
+
 let jogador = []
 let computador = []
 
@@ -102,4 +105,5 @@ if(confirm("Bem-vinde ao jogo de Blackjack!" + "\n" + "Quer iniciar uma nova rod
 } else {
    alert("O jogo acabou.")
 }
+
 
